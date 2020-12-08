@@ -4,11 +4,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.Spinner;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
+    ImageView imgv;
+
     String[] posterTitles = {"너의 이름은", "시간을 달리는 소녀", "별을 쫒는 아이", "늑대아이", "이웃집 토토로",
             "센과 치히로", "마녀 배달부 키키", "메리와 마녀의 꽃", "모노노케 히메", "천공의 성 라퓨타"};
     int[] imgRes = {R.drawable.m1, R.drawable.m2, R.drawable.m3, R.drawable.m4, R.drawable.m5,
