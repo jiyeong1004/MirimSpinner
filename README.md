@@ -2,7 +2,7 @@
 
 #### 2020.12.09.
 
-## 영화 포스터 
+## 영화 포스터 목록
 
 ![list](https://github.com/jiyeong1004/MirimSpinner/blob/master/list.png)
 
