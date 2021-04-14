@@ -4,8 +4,8 @@
 
 ## 영화 포스터 리스트
 
-![list]()
+![list](https://github.com/jiyeong1004/MirimSpinner/blob/master/list.png)
 
 ## 선택 영화 포스터
 
-![poster]()
+![poster](https://github.com/jiyeong1004/MirimSpinner/blob/master/poster.png)
