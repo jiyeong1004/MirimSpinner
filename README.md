@@ -2,10 +2,4 @@
 
 #### 2020.12.09.
 
-## 영화 포스터 목록
-
-![list](https://github.com/jiyeong1004/MirimSpinner/blob/master/list.png)
-
-## 선택 영화 포스터
-
-![poster](https://github.com/jiyeong1004/MirimSpinner/blob/master/poster.png)
+![mirimspinner](https://user-images.githubusercontent.com/51290739/115171640-703b3d80-a0fe-11eb-9992-6197c1c55be1.gif)
